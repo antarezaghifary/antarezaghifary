@@ -13,7 +13,7 @@ Im android developer & UI Design :
 - CodeIgniter
 - Swift 4
 
-[![Instagram Badge](https://img.shields.io/badge/-rizki_kurniaa-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/samrez._/)](https://instagram.com/samrez._)
+[![Instagram Badge](https://img.shields.io/badge/-antareza-ghifary-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/samrez._/)](https://instagram.com/samrez._)
 [![Gmail Badge](https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antareza08@gmail.com)](mailto:antareza08@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-kikunote-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/agam trans)](https://www.youtube.com/c/agam trans)
 
