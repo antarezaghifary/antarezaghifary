@@ -17,15 +17,12 @@ Im android developer & UI Design :
 [![Gmail Badge](https://img.shields.io/badge/-antareza08@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antareza08@gmail.com)](mailto:antareza08@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-agamtrans-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/agamtrans)](https://www.youtube.com/c/agamtrans)
 
-![Rizki's github stats](https://github-readme-stats.vercel.app/api?username=antarezaghifary&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antarezaghifary&layout=compact)](https://github.com/antarezaghifary/github-readme-stats) 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antarezaghifary)
-
 
 ## Get in touch
-- Email: antareza08@gmail.com
-- Instagram: https://instagram.com/samrez._ (pakai ._)
 
+![Antareza's github stats](https://github-readme-stats.vercel.app/api?username=antarezaghifary&show_icons=true&theme=dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antarezaghifary&layout=compact)](https://github.com/antarezaghifary/github-readme-stats) 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antarezaghifary)
 ![github stats](https://github-readme-stats.vercel.app/api?username=antarezaghifary&show_icons=true)
 
 <br/>
