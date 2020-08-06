@@ -13,13 +13,13 @@ Im android developer & UI Design :
 - CodeIgniter
 - Swift 4
 
-[![Instagram Badge](https://img.shields.io/badge/-rizki_kurniaa-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/samrez._/)](https://instagram.com/rizki_kurniaa)
-[![Gmail Badge](https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rizkikurniawan1797@gmail.com)](mailto:rizkikurniawan1797@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-kikunote-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Kikunote)](https://www.youtube.com/c/Kikunote)
+[![Instagram Badge](https://img.shields.io/badge/-rizki_kurniaa-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/samrez._/)](https://instagram.com/samrez._)
+[![Gmail Badge](https://img.shields.io/badge/-rizkikurniawan1797@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antareza08@gmail.com)](mailto:antareza08@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-kikunote-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/agam trans)](https://www.youtube.com/c/agam trans)
 
-![Rizki's github stats](https://github-readme-stats.vercel.app/api?username=rizkikurniaa&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikurniaa&layout=compact)](https://github.com/rizkikurniaa/github-readme-stats) 
+![Rizki's github stats](https://github-readme-stats.vercel.app/api?username=antarezaghifary&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antarezaghifary&layout=compact)](https://github.com/antarezaghifary/github-readme-stats) 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rizkikurniaa)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antarezaghifary)
 
 
 ## Get in touch
