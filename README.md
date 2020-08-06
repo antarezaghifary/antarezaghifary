@@ -21,7 +21,7 @@ Im android developer & UI Design :
 ## Get in touch
 
 ![Antareza's github stats](https://github-readme-stats.vercel.app/api?username=antarezaghifary&show_icons=true&theme=dark) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antarezaghifary&layout=compact)](https://github.com/antarezaghifary/github-readme-stats) 
+![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antarezaghifary&layout=compact)](https://github.com/antarezaghifary/github-readme-stats) 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=antarezaghifary)
 
