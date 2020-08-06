@@ -15,7 +15,7 @@ Im android developer & UI Design :
 
 ## Get in touch
 - Email: antareza08@gmail.com
-- Instagram: https://instagram.com/samrez._
+- Instagram: https://instagram.com/samrez._ (pakai ._)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=antarezaghifary&show_icons=true)
 
