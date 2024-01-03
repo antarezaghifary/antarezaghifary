@@ -8,6 +8,9 @@ Im android developer & UI Design :
 - 💬 Ask me about Java, Swift 4, Figma, Adobe XD, HTML, SCC, SCSS and PHP
 
 ## Our Play Ground
+- Kotlin
+- Html
+- Tailwind
 - Java
 - Lumen
 - CodeIgniter
