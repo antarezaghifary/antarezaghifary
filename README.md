@@ -27,14 +27,3 @@ Im android developer & UI Design :
 
 <br/>
 
-## If you like my Apps you can send me Donation on :
-<table>
-  <tr>
-    <th>Paypal.me</th>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://paypal.me/antareza" target="blank"><img src="https://i.ibb.co/Mff5X7J/QRickit-3.png" alt="Send me donation" style="width:200px !important;height:200px !important"></img></a>
-    </td>
-  </tr>
-</table>
